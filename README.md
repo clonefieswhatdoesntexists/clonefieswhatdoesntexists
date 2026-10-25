@@ -1,3 +1,4 @@
+$${\color{#f5ca62}\text{☼}}$$
 <p align="center"><a href="https://hits.sh/github.com/clonefieswhatdoesntexists/"><img alt="Hits" src="https://hits.sh/github.com/clonefieswhatdoesntexists.svg?view=today-total&label=noticed%20you.&color=7365a3&labelColor=a0a3b1&logo=polestar"/></a>
 
 $${\color{#d4dcf5}\text{i never promised a soft fur,}}$$
