@@ -1,10 +1,12 @@
-<p align="center"><a href="https://hits.sh/github.com/clonefieswhatdoesntexists/"><img alt="Hits" src="https://hits.sh/github.com/clonefieswhatdoesntexists.svg?label=noticed%20you.&color=8e67d5&labelColor=605d6e"/></a></p>
+<p align="center"><a href="https://hits.sh/github.com/clonefieswhatdoesntexists/"><img alt="Hits" src="https://hits.sh/github.com/clonefieswhatdoesntexists.svg?view=today-total&label=noticed%20you.&color=7365a3&labelColor=a0a3b1&logo=polestar"/></a>
 
-$${\color{#817b89}\text{its not about the years in your life it's about the life in your years.}}$$
-$${\color{#817b89}\text{is that wisdom or what-.}}$$
-<p align="center"><img width="350" height="240" alt="hmmnmm" src="https://github.com/user-attachments/assets/b3c15456-68a8-44c7-9b32-66f286296da5" /></p>   
+$${\color{#d4dcf5}\text{i never promised a soft fur,}}$$
+$${\color{#d4dcf5}\text{i never showed a sharp teeth,}}$$
+$${\color{#d4dcf5}\text{i never devoured the scorching sun,}}$$
+$${\color{#d4dcf5}\text{i live, therefore i am.}}$$
+<p align="center"><img width="330" height="300" alt="fhfhgL" src="https://github.com/user-attachments/assets/dcb212cb-8ba3-43fc-bd3f-29c3d202df7a" /></p>   
 
-$${\color{#635082}\text{be kind to others.}}$$
-<p align="center"><a href="https://github.com/meomorry/">main</a></p>
+$${\color{#}\text{be kind to others.}}$$
+<p align="center"><a href="https://github.com/meomorry/">it's snowing like...</a></p> 
 
-$${\color{#eceae2}\text{✦}}$$
+$${\color{#f5ca62}\text{✦}}$$
